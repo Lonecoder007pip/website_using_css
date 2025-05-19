@@ -78,5 +78,41 @@ a:hover
 
 }
 
+.about
+{   
+    width:40%;
+    min-width:600px;
+    font-size:30px;
+    margin-left:50px;
+}
+
+.about h3
+{
+    font-weight: 200;
+}
+
+span>h3
+{
+    border-bottom: 1px solid black;
+    margin-top:40px;
+    font-size: 30px;
+    display:inline-block;
+}
+.contact
+{
+    margin-top:40px;
+}
+
+.contact p
+{
+    margin:0;
+    font-size:20px;
+    font-weight: 400;    
+}
+
+
+
+
+
 
 
